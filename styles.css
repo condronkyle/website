@@ -1,13 +1,101 @@
-body {
-    font-family: Arial, sans-serif;
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     background-color: #f0f0f0;
-    text-align: center;
-    padding-top: 50px;
 }
 
-button {
-    font-size: 16px;
-    padding: 10px 20px;
-    cursor: pointer;
+#field {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    position: relative;
 }
 
+.base {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    position: absolute;
+}
+
+#first-base {
+    bottom: 10px;
+    right: 10px;
+}
+
+#second-base {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#third-base {
+    top: 10px;
+    left: 10px;
+}
+
+#home-base {
+    bottom: 10px;
+    left: 10px;
+}
+
+.player {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#pitcher {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#catcher {
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#first-baseman {
+    bottom: 40px;
+    right: 40px;
+}
+
+#second-baseman {
+    top: 50%;
+    left: 70%;
+    transform: translateY(-50%);
+}
+
+#shortstop {
+    top: 50%;
+    left: 30%;
+    transform: translateY(-50%);
+}
+
+#third-baseman {
+    top: 40px;
+    left: 40px;
+}
+
+#left-fielder {
+    top: 20px;
+    left: 70%;
+}
+
+#center-fielder {
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#right-fielder {
+    top: 20px;
+    right: 70%;
+}
