@@ -49,8 +49,8 @@
     height: 40px;
     background-color: brown;
     position: absolute;
-    bottom: 116px;
-    left: 200px;
+    bottom: 110px;
+    left: 300px;
     border-radius: 50%;
 }
 
@@ -63,33 +63,33 @@
 }
 
 #pitcher {
-    bottom: 90px;
+    bottom: 116px;
     left: 300px;
 }
 
 #catcher {
     bottom: 55px;
-    left: 230px;
+    left: 300px;
 }
 
 #first-baseman {
-    bottom: 135px;
-    left: 350px;
+    bottom: 143px;
+    left: 345px;
 }
 
 #second-baseman {
-    bottom: 180px;
-    left: 315px;
+    bottom: 187px;
+    left: 322px;
 }
 
 #shortstop {
-    bottom: 180px;
-    left: 285px;
+    bottom: 187px;
+    left: 278px;
 }
 
 #third-baseman {
-    bottom: 135px;
-    left: 250px;
+    bottom: 143px;
+    left: 255px;
 }
 
 #left-fielder {
