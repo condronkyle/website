@@ -23,90 +23,88 @@
 }
 
 #first-base {
-    bottom: 20%;
-    right: 40%;
+    bottom: 100px;
+    left: 450px;
 }
 
 #second-base {
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    bottom: 141px;
+    left: 300px;
 }
 
 #third-base {
-    top: 20%;
-    left: 40%;
+    bottom: 100px;
+    left: 150px;
 }
 
 #home-base {
-    bottom: 20%;
-    left: 40%;
+    bottom: 59px;
+    left: 300px;
 }
+
 
 /* Adding pitcher's mound */
 #pitchers-mound {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     background-color: brown;
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    bottom: 90px;
+    left: 200px;
     border-radius: 50%;
 }
 
 .player {
-    width: 20px;
-    height: 20px;
+    width: 15px;
+    height: 15px;
     background-color: blue;
     position: absolute;
     border-radius: 50%;
 }
 
 #pitcher {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    bottom: 90px;
+    left: 200px;
 }
 
 #catcher {
-    bottom: 20%;
-    left: 50%;
-    transform: translateX(-50%);
+    bottom: 55px;
+    left: 200px;
 }
 
 #first-baseman {
-    bottom: 24%;
-    right: 44%;
+    bottom: 110px;
+    left: 440px;
 }
 
 #second-baseman {
-    bottom: 38%;
-    left: 54%;
+    bottom: 145;
+    left: 215px;
 }
 
 #shortstop {
-    top: 38%;
-    left: 46%;
+    bottom: 145px;
+    left: 185px;
 }
 
 #third-baseman {
-    top: 24%;
-    left: 44%;
+    bottom: 110px;
+    left: 160px;
 }
 
 #left-fielder {
-    top: 10%;
-    left: 70%;
+    bottom: 250px;
+    left: 140px;
 }
 
 #center-fielder {
-    top: 10%;
-    left: 50%;
-    transform: translateX(-50%);
+    bottom: 265px;
+    left: 200px;
 }
 
 #right-fielder {
-    top: 10%;
-    right: 70%;
+    bottom: 250px;
+    left: 460px;
 }
+
+
