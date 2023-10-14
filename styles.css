@@ -20,6 +20,7 @@
     background-color: white;
     position: absolute;
     border-radius: 50%;
+    transform: translate(-50%, 50%);  // Adjust position
 }
 
 #first-base {
@@ -60,6 +61,7 @@
     background-color: blue;
     position: absolute;
     border-radius: 50%;
+    transform: translate(-50%, 50%);  // Adjust position
 }
 
 #pitcher {
@@ -68,33 +70,33 @@
 }
 
 #catcher {
-    bottom: 55px;
+    bottom: 43px;
     left: 300px;
 }
 
 #first-baseman {
     bottom: 143px;
-    left: 345px;
+    left: 350px;
 }
 
 #second-baseman {
-    bottom: 187px;
-    left: 322px;
+    bottom: 182px;
+    left: 326px;
 }
 
 #shortstop {
-    bottom: 187px;
-    left: 278px;
+    bottom: 182px;
+    left: 274px;
 }
 
 #third-baseman {
     bottom: 143px;
-    left: 255px;
+    left: 250px;
 }
 
 #left-fielder {
     bottom: 250px;
-    left: 230px;
+    left: 190px;
 }
 
 #center-fielder {
@@ -104,7 +106,7 @@
 
 #right-fielder {
     bottom: 250px;
-    left: 370px;
+    left: 410px;
 }
 
 
