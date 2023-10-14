@@ -9,7 +9,7 @@
 
 #field {
     width: 600px;
-    height: 400px;
+    height: 600px;
     background-color: green;
     position: relative;
 }
@@ -64,32 +64,32 @@
 
 #pitcher {
     bottom: 90px;
-    left: 200px;
+    left: 300px;
 }
 
 #catcher {
     bottom: 55px;
-    left: 200px;
+    left: 2300px;
 }
 
 #first-baseman {
     bottom: 110px;
-    left: 440px;
+    left: 420px;
 }
 
 #second-baseman {
-    bottom: 145;
-    left: 215px;
+    bottom: 145px;
+    left: 315px;
 }
 
 #shortstop {
     bottom: 145px;
-    left: 185px;
+    left: 285px;
 }
 
 #third-baseman {
     bottom: 110px;
-    left: 160px;
+    left: 180px;
 }
 
 #left-fielder {
@@ -99,7 +99,7 @@
 
 #center-fielder {
     bottom: 265px;
-    left: 200px;
+    left: 300px;
 }
 
 #right-fielder {
