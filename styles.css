@@ -75,8 +75,8 @@
 }
 
 #first-baseman {
-    bottom: 143px;
-    left: 350px;
+    bottom: 130px;
+    left: 360px;
 }
 
 #second-baseman {
@@ -90,8 +90,8 @@
 }
 
 #third-baseman {
-    bottom: 143px;
-    left: 250px;
+    bottom: 130px;
+    left: 240px;
 }
 
 #left-fielder {
@@ -100,7 +100,7 @@
 }
 
 #center-fielder {
-    bottom: 265px;
+    bottom: 275px;
     left: 300px;
 }
 
