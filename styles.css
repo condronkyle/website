@@ -53,6 +53,7 @@
     bottom: 110px;
     left: 300px;
     border-radius: 50%;
+    transform: translate(-50%, 50%);  // Adjust position
 }
 
 .player {
@@ -75,23 +76,23 @@
 }
 
 #first-baseman {
-    bottom: 130px;
-    left: 360px;
+    bottom: 135px;
+    left: 350px;
 }
 
 #second-baseman {
-    bottom: 182px;
-    left: 326px;
+    bottom: 172px;
+    left: 336px;
 }
 
 #shortstop {
-    bottom: 182px;
-    left: 274px;
+    bottom: 172px;
+    left: 264px;
 }
 
 #third-baseman {
-    bottom: 130px;
-    left: 240px;
+    bottom: 135px;
+    left: 250px;
 }
 
 #left-fielder {
